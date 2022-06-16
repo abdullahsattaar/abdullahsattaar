@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahsattaar
 - 👀 I’m interested in technological evoulution.
-- 🌱 I’m currently doing my Bachelors of Comouter Science from National Univerisity of Computer and Emerging Sciences FAST Lahore.
+- 🌱 I’m currently doing my Bachelors of Computer Science from National Univerisity of Computer and Emerging Sciences FAST Lahore.
 - 💞️ I’m looking to collaborate on technological ventures which includes AI, MERN, Software Testing and game development.
 - 📫 How to reach me? https://linktr.ee/muhabdullahsattar
 
